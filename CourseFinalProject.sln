@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{8A84A248-F47E-4678-ACE9-0F7094E28D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{2E22065B-8764-4C04-8CFC-86B1F7F7FBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{A0B17AFE-B72A-46D7-8631-2448111FF2DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A84A248-F47E-4678-ACE9-0F7094E28D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A84A248-F47E-4678-ACE9-0F7094E28D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A84A248-F47E-4678-ACE9-0F7094E28D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A84A248-F47E-4678-ACE9-0F7094E28D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E22065B-8764-4C04-8CFC-86B1F7F7FBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E22065B-8764-4C04-8CFC-86B1F7F7FBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E22065B-8764-4C04-8CFC-86B1F7F7FBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E22065B-8764-4C04-8CFC-86B1F7F7FBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B17AFE-B72A-46D7-8631-2448111FF2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B17AFE-B72A-46D7-8631-2448111FF2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B17AFE-B72A-46D7-8631-2448111FF2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B17AFE-B72A-46D7-8631-2448111FF2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45CBC3E1-A05A-4338-96F3-6DDC70B8A05D}
+	EndGlobalSection
+EndGlobal
