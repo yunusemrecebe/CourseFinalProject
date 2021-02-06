@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Entities.Abstract
+namespace Core.Entities
 {
     //Bu Arayüzü Kullanan Sınıflar Bir Veritabanı Tablosudur.
 
