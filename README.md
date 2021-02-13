@@ -1,7 +1,11 @@
 # CourseFinalProject
 Katmanlı Mimari Deneyim Kazanma Projesi
 
+
+
 Norhtwind Database
+
+
 
 -Entity Framework Core
 
