@@ -1,4 +1,4 @@
-# CourseFinalProject
+# N Layered Architecture Backend Project
 Katmanlı Mimari Deneyim Kazanma Projesi
 
 
