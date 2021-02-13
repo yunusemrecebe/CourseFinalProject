@@ -1,5 +1,5 @@
 # N Layered Architecture Backend Project
-Katmanlı Mimari Deneyim Kazanma Projesi
+Tüm amatör projelerimde kullanabileceğim, Entityt Framwork Core kullanarak hazırladığım, CRUD işlemlerini içeren, .Net ekosistemi üzerinde proje kazanmak amacıyla hazırladığım proje.
 
 
 _____________________
