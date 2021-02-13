@@ -13,4 +13,6 @@ _____________________
 
 -Çok Katmanlı Mimari
 
+-Generic Repository Design Pattern
+
 -SOLID Prensiplerine Uygun Tasarım
