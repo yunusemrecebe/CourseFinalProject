@@ -1,5 +1,5 @@
 # N Layered Architecture Backend Project
-Tüm amatör projelerimde kullanabileceğim, Entityt Framwork Core kullanarak hazırladığım, CRUD işlemlerini içeren, .Net ekosistemi üzerinde proje kazanmak amacıyla hazırladığım proje.
+Tüm amatör projelerimde kullanabileceğim, Entity Framework Core ve Asp.Net Core Web API kullanarak hazırladığım, CRUD işlemlerini içeren, .Net ekosistemi üzerinde proje kazanmak amacıyla hazırladığım proje.
 
 
 _____________________
