@@ -2,9 +2,9 @@
 Katmanlı Mimari Deneyim Kazanma Projesi
 
 
-
+_____________________
 Norhtwind Database
-
+_____________________
 
 
 -Entity Framework Core
