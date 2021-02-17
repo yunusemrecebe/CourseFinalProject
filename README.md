@@ -6,16 +6,15 @@ _____________________
 Norhtwind Database
 _____________________
 
-
--Entity Framework Core
-
--Asp.Net Core Web API
-
 -Çok Katmanlı Mimari
 
 -Generic Repository Design Pattern
 
 -SOLID Prensiplerine Uygun Tasarım
+
+-Entity Framework Core
+
+-Asp.Net Core Web API
 
 -FluentValidation
 
