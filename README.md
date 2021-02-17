@@ -16,3 +16,7 @@ _____________________
 -Generic Repository Design Pattern
 
 -SOLID Prensiplerine Uygun Tasarım
+
+-FluentValidation
+
+-Autofac IoC Container
